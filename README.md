@@ -9,7 +9,7 @@ features :
 **user messages scraper**: scans a channel (or multiple channels) for messages or attachments sent by a specific user you want.
 **history** basically makes it easier to access all the outputs etc
 
-
+requirements for now only requests and u can find requirements.txt in released use ```pip install -r requirements.txt``` to install requirements
 
 some images of the tool :
 ![image](https://github.com/user-attachments/assets/771fb8a8-c1a2-47ca-bb72-3ad56c8a8160)
