@@ -34,10 +34,10 @@
 
 # 🖼️ Screenshots
 | Channel Scraper                                                                           | Server Member Scanner                                                                     |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+|  |  |
 | ![image](https://github.com/user-attachments/assets/771fb8a8-c1a2-47ca-bb72-3ad56c8a8160) | ![image](https://github.com/user-attachments/assets/74f1937a-6358-465c-87c7-dbeb3529834f) |
 | User Scraper                                                                              | History System                                                                            |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+|  |  |
 | ![image](https://github.com/user-attachments/assets/2790af9d-6e57-420e-a49a-810e6092d1e5) | ![image](https://github.com/user-attachments/assets/5bc25c3d-7cf7-4d03-a066-504956764dbc) |
 
 
