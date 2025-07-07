@@ -1,21 +1,46 @@
-# discord-scraper-tool
+# 📦 Discord Scraper Tool
 
-# this tool is made to scrap infrormation such as member ids or messages from specific servers or specific channels or dms.
-# use it at your own risk as it may get your account TERMINATED.
+> ⚠️ **Disclaimer:**  
+> This tool is designed for scraping information such as member IDs or messages from specific servers, channels, or DMs.  
+> **Use at your own risk** — unauthorized usage may lead to account suspension or termination.
 
-features :
-**channel scraping**: takes all the messages from specific channel in specific server and makes a folder with .txt that has all the info.
-**server members scraping**: scans a specific server and makes a file with all the member ids from that specific server and how much messages each one has.
-**user messages scraper**: scans a channel (or multiple channels) for messages or attachments sent by a specific user you want.
-**history** basically makes it easier to access all the outputs etc
+---
 
-requirements for now only requests and u can find requirements.txt in released use ```pip install -r requirements.txt``` to install requirements
+## ✨ Features
 
-some images of the tool :
-![image](https://github.com/user-attachments/assets/771fb8a8-c1a2-47ca-bb72-3ad56c8a8160)
-![image](https://github.com/user-attachments/assets/74f1937a-6358-465c-87c7-dbeb3529834f)
-![image](https://github.com/user-attachments/assets/2790af9d-6e57-420e-a49a-810e6092d1e5)
-![image](https://github.com/user-attachments/assets/5bc25c3d-7cf7-4d03-a066-504956764dbc)
+- **🔗 Channel Scraper**  
+  Scrape all messages from a specific channel in a specific server.  
+  Messages are saved into organized `.txt` files within a generated folder.
+
+- **👥 Server Member Scraper**  
+  Scan a server and save all member IDs along with a message count per user.
+
+- **🎯 User Message Scraper**  
+  Target a specific user and scrape all their messages and attachments from selected channels.
+
+- **📁 History System**  
+  Easily access previously scraped outputs from within the tool.
+
+---
+
+## 📦 Requirements
+
+- Python `requests` module  
+  📄 A `requirements.txt` file is included.  
+  Install dependencies with:
+
+  ```bash
+  pip install -r requirements.txt
+
+# 🖼️ Screenshots
+| Channel Scraper                                                                           | Server Member Scanner                                                                     |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ![image](https://github.com/user-attachments/assets/771fb8a8-c1a2-47ca-bb72-3ad56c8a8160) | ![image](https://github.com/user-attachments/assets/74f1937a-6358-465c-87c7-dbeb3529834f) |
+| User Scraper                                                                              | History System                                                                            |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ![image](https://github.com/user-attachments/assets/2790af9d-6e57-420e-a49a-810e6092d1e5) | ![image](https://github.com/user-attachments/assets/5bc25c3d-7cf7-4d03-a066-504956764dbc) |
 
 
-# i will make it a open source if it got 10 stars.
+🚀 Open Source Goal
+If this repo reaches ⭐ 10 stars, it will be made fully open-source!
+
